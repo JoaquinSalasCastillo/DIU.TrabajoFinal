@@ -2,8 +2,8 @@
 Trabajo final para la asignatura de Diseño de Interfaces de Usuario que se dividirá en dos partes, un portfolio con la experiencia obtenida en UX y un caso de estudio donde se aplicarán las tecnicas aprendidas a un caso real.
 
 ## Tabla de Contenidos
-- [PARTE I: Mi Experiencia UX](#PARTE-1:-Mi-Experiencia-UX)
-- [PARTE II: Caso de estudio: Evaluación de Página Web de Investigación](#PARTE-II:-Caso-de-estudio:-Evaluación-de-Página-Web-de-Investigación)
+- [PARTE I: Mi Experiencia UX](#parte-i-mi-experiencia-ux)
+- [PARTE II: Caso de estudio: Evaluación de Página Web de Investigación](#parte-ii-caso-de-estudio-evaluacion-de-pagina-web-de-investigacion)
   - [Propuesta](#Propuesta)
   - [Analisis](#Analisis)
 
