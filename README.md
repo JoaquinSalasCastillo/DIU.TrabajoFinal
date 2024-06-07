@@ -14,6 +14,10 @@ En esta parte se ha redactado un portfolio UX a modo de PDF con todas las aporta
 ## PARTE II: Caso de estudio: Evaluación de Página Web de Investigación
 En esta parte se pondrán en practica las tecnicas aprendidas sobre un caso de estudio real
 
-### Propuesta
+### Introducción y Propuesta
+En esta sección, se llevará a cabo un análisis exhaustivo de la página web de un centro de investigación, centrándose en aspectos clave como el diseño, la usabilidad, la adaptabilidad y la experiencia de usuario (UX). Se realizará una comparación con otra web de investigación similar y, a partir de los hallazgos, se extraerán conclusiones significativas
+El caso escogido para analisis será el [centro de investigación biomedica de la UGR](https://cibm.ugr.es/).
 
 ### Analisis
+
+
