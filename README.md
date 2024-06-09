@@ -27,3 +27,12 @@ Para el analisis de la usabilidad redactaremos un documento con el user research
 Vamos ha hacer un analisis de la accesibilidad de esta pagina web para ver si es adaptable a distintos dispositivos y personas.
 
 - [Accesibilidad](Accesibilidad.pdf)
+
+### Comparativa
+Para hacer una comparación directa utilizaremos el [Instituto de Biomedicina de Sevilla](https://www.ibis-sevilla.es/es/) para comparar funcionalidades y oferta.
+
+Para ello rellenaremos un documento Desk Research con el analisis tecnico de diferentes aspectos significativos.
+
+- [Desk Research](Desk%20Research.pdf)
+
+
