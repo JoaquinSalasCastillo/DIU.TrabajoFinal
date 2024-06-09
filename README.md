@@ -6,6 +6,8 @@ Trabajo final para la asignatura de Diseño de Interfaces de Usuario que se divi
 - [PARTE II: Caso de estudio: Evaluación de Página Web de Investigación](#parte-ii-caso-de-estudio-evaluacion-de-pagina-web-de-investigacion)
   - [Introducción y Propuesta](#introduccion-y-propuesta)
   - [Analisis](#analisis)
+  - [Comparativa](#comparativa)
+  - [Conclusión Final](#conclusion-final)
 
 ## PARTE I: Mi Experiencia UX
 En esta parte se ha redactado un portfolio UX a modo de PDF con todas las aportaciones e insights aprendidas durante la asignatura.
@@ -35,4 +37,4 @@ Para ello rellenaremos un documento Desk Research con el analisis tecnico de dif
 
 - [Desk Research](Desk%20Research.pdf)
 
-
+### Conclusión Final
