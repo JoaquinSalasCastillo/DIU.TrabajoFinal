@@ -42,3 +42,7 @@ Rellenaremos tambien un documento de usabilidad para poder mejorar los puntos de
 - [Usability Report](Usability%20Report.pdf)
 
 ### Conclusión Final
+
+Se han aplicado varias tecnicas aprendidas a lo largo de la asignatura y usadas durante las practicas que nos acercan a lo que sería un caso de estudio real sobre Interfaces de Usuario. No obstante, aún se podrían haber implementado otras metodologías de análisis para enriquecer nuestro enfoque. Por ejemplo, el "eye tracking" podría haber sido utilizado para identificar las áreas de interés en cada página web y optimizar el diseño en función de los resultados obtenidos. Además, el "reframing", acompañado de la elaboración de un "empathy map" o una "malla receptora", habría permitido recopilar y analizar el feedback de los usuarios, adaptando las funcionalidades de las páginas para alinearlas mejor con los intereses de nuestros usuarios objetivo.
+
+Otras técnicas valiosas que podrían incorporarse incluyen el "Task Analysis" y la "Arquitectura de la Información". Estas metodologías proporcionarían una comprensión más profunda de cómo mejorar la estructura del sitio web y qué nuevas funcionalidades podrían ser necesarias para ofrecer una experiencia de usuario más eficiente y satisfactoria.
