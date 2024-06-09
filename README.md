@@ -4,8 +4,8 @@ Trabajo final para la asignatura de Diseño de Interfaces de Usuario que se divi
 ## Tabla de Contenidos
 - [PARTE I: Mi Experiencia UX](#parte-i-mi-experiencia-ux)
 - [PARTE II: Caso de estudio: Evaluación de Página Web de Investigación](#parte-ii-caso-de-estudio-evaluacion-de-pagina-web-de-investigacion)
-  - [Propuesta](#Propuesta)
-  - [Analisis](#Analisis)
+  - [Introducción y Propuesta](#introduccion-y-propuesta)
+  - [Analisis](#analisis)
 
 ## PARTE I: Mi Experiencia UX
 En esta parte se ha redactado un portfolio UX a modo de PDF con todas las aportaciones e insights aprendidas durante la asignatura.
@@ -20,4 +20,4 @@ El caso escogido para analisis será el [centro de investigación biomedica de l
 
 ### Analisis
 
-
+Para el analisis de la usabilidad redactaremos un documento con el user research tratando de exponer el publico objetivo de esta pagina web así como posibles mejoras de eficiencia y satisfacción.
