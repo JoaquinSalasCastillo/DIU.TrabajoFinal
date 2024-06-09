@@ -21,3 +21,5 @@ El caso escogido para analisis será el [centro de investigación biomedica de l
 ### Analisis
 
 Para el analisis de la usabilidad redactaremos un documento con el user research tratando de exponer el publico objetivo de esta pagina web así como posibles mejoras de eficiencia y satisfacción.
+
+- [User Research](User research.pdf)
