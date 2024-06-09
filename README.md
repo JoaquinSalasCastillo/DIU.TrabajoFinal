@@ -37,4 +37,8 @@ Para ello rellenaremos un documento Desk Research con el analisis tecnico de dif
 
 - [Desk Research](Desk%20Research.pdf)
 
+Rellenaremos tambien un documento de usabilidad para poder mejorar los puntos debiles de ambas paginas web.
+
+- [Usability Report](Usability%20Report.pdf)
+
 ### Conclusión Final
